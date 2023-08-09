@@ -1,0 +1,15 @@
+C:\Users\César S\source\repos\DetectorDeCaracteres\bin\Debug\net7.0\DetectorDeCaracteres.exe
+C:\Users\César S\source\repos\DetectorDeCaracteres\bin\Debug\net7.0\DetectorDeCaracteres.deps.json
+C:\Users\César S\source\repos\DetectorDeCaracteres\bin\Debug\net7.0\DetectorDeCaracteres.runtimeconfig.json
+C:\Users\César S\source\repos\DetectorDeCaracteres\bin\Debug\net7.0\DetectorDeCaracteres.dll
+C:\Users\César S\source\repos\DetectorDeCaracteres\bin\Debug\net7.0\DetectorDeCaracteres.pdb
+C:\Users\César S\source\repos\DetectorDeCaracteres\obj\Debug\net7.0\DetectorDeCaracteres.csproj.AssemblyReference.cache
+C:\Users\César S\source\repos\DetectorDeCaracteres\obj\Debug\net7.0\DetectorDeCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\César S\source\repos\DetectorDeCaracteres\obj\Debug\net7.0\DetectorDeCaracteres.AssemblyInfoInputs.cache
+C:\Users\César S\source\repos\DetectorDeCaracteres\obj\Debug\net7.0\DetectorDeCaracteres.AssemblyInfo.cs
+C:\Users\César S\source\repos\DetectorDeCaracteres\obj\Debug\net7.0\DetectorDeCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\César S\source\repos\DetectorDeCaracteres\obj\Debug\net7.0\DetectorDeCaracteres.dll
+C:\Users\César S\source\repos\DetectorDeCaracteres\obj\Debug\net7.0\refint\DetectorDeCaracteres.dll
+C:\Users\César S\source\repos\DetectorDeCaracteres\obj\Debug\net7.0\DetectorDeCaracteres.pdb
+C:\Users\César S\source\repos\DetectorDeCaracteres\obj\Debug\net7.0\DetectorDeCaracteres.genruntimeconfig.cache
+C:\Users\César S\source\repos\DetectorDeCaracteres\obj\Debug\net7.0\ref\DetectorDeCaracteres.dll
